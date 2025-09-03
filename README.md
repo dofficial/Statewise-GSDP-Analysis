@@ -1,6 +1,6 @@
 # Statewise-GSDP-Analysis
 
-![Dashboard Preview](1.png)
+![Dashboard Preview](Dashboard.png)
 
 ## 📌 Project Overview
 This project presents a **Tableau dashboard** analyzing the  
